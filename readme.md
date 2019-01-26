@@ -8,6 +8,8 @@ As it's human-friendly you can use it as an OTP(one-time password), transaction 
 
 ## Installation
 
+You can view download the package from here - [custom-id npm](https://www.npmjs.com/package/custom-id)
+
 ```bash
 npm i custom-id
 ```
@@ -109,4 +111,4 @@ Please make sure to update tests as appropriate. 🏃‍🏃‍
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/fazlulkarimweb/custom-Id/blob/master/license)

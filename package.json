@@ -3,7 +3,6 @@
   "author": "Md Fazlul Karim <fazlulkarimrocky@gmail.com> (https://twitter.com/fazlulkarimweb)",
   "version": "1.0.1",
   "main": "node.js",
-  "browser": "browser.js",
   "repository": "github:fazlulkarimweb/custom-id",
   "license": "MIT",
   "scripts": {

@@ -20,6 +20,8 @@ Yarn installation
 yarn add custom-id
 ```
 
+![installation of custom-id](https://i.ibb.co/J74bsqV/Screenshot-268.png)
+
 ## Usage
 
 You can generate an ID instantly by giving an empty object as the argument. 👀👀👀
@@ -35,6 +37,8 @@ The custom ID will be generated in this format -
 ✌✌ 2 Number + 2 String + 2 Number + 2 String ✌✌
 
 All those number and string will be generated randomly. We use the cryptographic method for generating ids.
+
+![client-id example](https://i.ibb.co/qdpTBXt/Screenshot-269.png)
 
 # Customizable
 
@@ -102,6 +106,9 @@ customId({
   lowerCase: true // Optional
 });
 ```
+
+##React Use Case
+![react client-id](https://i.ibb.co/THvfXW0/Screenshot-267.png)
 
 ## Contributing
 

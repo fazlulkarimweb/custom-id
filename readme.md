@@ -1,6 +1,6 @@
 # Custom ID
 
-A tiny, unique but customizable,🤠 human-friendly but secure, encrypted but beautiful,🐱‍🐉 string ID generator for JavaScript 🎉🎉
+A tiny, unique but customizable,🤠 human-friendly but secure, encrypted but beautiful,🐱‍🐉intuitive string ID generator for JavaScript 🎉🎉
 
 ## Inspiration
 

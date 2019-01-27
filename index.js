@@ -41,7 +41,7 @@ module.exports = function customId(customId) {
       "Custom Id expects an object as the argument. Make sure all values of that object are string."
     );
   }
-  var multiply = customId.uniqueId || 97232;
+  var multiply = customId.uniqueId || 1;
   var crypticNotSecure = Math.floor(Math.random() * multiply);
   var crypticSecureFun = cryptoRandom() * multiply;
   var crypticSecure = Math.floor(crypticSecureFun);

@@ -107,7 +107,18 @@ customId({
 });
 ```
 
-##React Use Case
+## customId.uniqueId ( number || Optional )
+
+It's all about control & more security. If you want to manipulate your randomly generated string, you can give an unique ID. Our encryption based algorithm will use this number to make a killing combination of IDs. It's completely optional. You can give a static number or node js environment variable to increase your security.
+
+```js
+customId({
+  uniqueId: 4563 // Optional // You can provide any number
+});
+```
+
+## React Use Case
+
 ![react client-id](https://i.ibb.co/THvfXW0/Screenshot-267.png)
 
 ## Contributing

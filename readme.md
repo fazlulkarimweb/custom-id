@@ -4,7 +4,7 @@ A tiny, unique but customizable,🤠 human-friendly but secure, encrypted but be
 
 ## Inspiration
 
-It is built for both human and machine. We use familiar letters (from given name & email) in our randomly generated ID. **People can easily recognize those familiar letters as they use it every time, everyday, every moment.** You can randomly generate IDs with uuid or nanoid, but these are not generated for human. These are for machine. This library is for both of them.
+It is built for both human and machine. We use familiar letters (from given name & email) in our randomly generated ID. **People can easily recognize those familiar letters as they use it every time, everyday, every moment.** You can randomly generate IDs with uuid or nanoid, but these are not generated for human. These are for machine. But this library is for both of them.
 
 # Use Case
 

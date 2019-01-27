@@ -1,6 +1,7 @@
 {
   "name": "custom-id",
   "author": "Md Fazlul Karim <fazlulkarimrocky@gmail.com> (https://twitter.com/fazlulkarimweb)",
+  "description": "A tiny, unique but customizable,🤠 human-friendly but secure, encrypted but beautiful,🐱‍🐉intuitive string ID generator for JavaScript 🎉🎉",
   "version": "1.1.0",
   "main": "node.js",
   "repository": "github:fazlulkarimweb/custom-id",
@@ -8,6 +9,21 @@
   "scripts": {
     "test": "yarn run jest"
   },
+  "keywords": [
+    "custom id",
+    "string generate",
+    "beautiful custom id",
+    "customized id",
+    "identification number",
+    "custom key",
+    "customised id",
+    "intuitive id",
+    "custom string",
+    "identification key",
+    "api id",
+    "transaction id",
+    "transaction key"
+  ],
   "dependencies": {
     "math-random": "^1.0.4"
   },

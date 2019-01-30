@@ -1,10 +1,3 @@
-/*!
- * Custom ID <https://github.com/fazlulkarimweb/custom-id>
- *
- * Copyright (c) 2019-2020, Md Fazlul Karim.
- * Released under the MIT License.
- */
-
 "use strict";
 var cryptoRandom = require("math-random");
 
@@ -27,21 +20,13 @@ function idGenerate() {
   return str;
 }
 
-/**
- * Generate random character sequences of a specified `length`,
- * based on the given `customerId({})`.
- *
- * @param {Object} `customerId` The object to genrate customized the random string.
- * @api public
- */
-
 module.exports = function customId(customId) {
   if (typeof customId === "undefined") {
     throw new Error(
       "Custom Id expects an object as the argument. Make sure all values of that object are string."
     );
   }
-  var multiply = customId.uniqueId || 1;
+  var multiply = customId.uniqueId || 97232;
   var crypticNotSecure = Math.floor(Math.random() * multiply);
   var crypticSecureFun = cryptoRandom() * multiply;
   var crypticSecure = Math.floor(crypticSecureFun);

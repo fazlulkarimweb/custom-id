@@ -50,8 +50,8 @@ The most beautiful & unique advantage of this library is its **customizability**
 
 ```js
 customId({
-  name: "Md. Fazlul Karim", // Optional
-  email: "fazlulkarimrocky@gmail.com", // Optional
+  name: "Jhon Doe", // Optional
+  email: "jhondoe@gmail.com", // Optional
   randomLength: 2, // Optional
   lowerCase: true // Optional
 });
@@ -67,7 +67,7 @@ If no name is provided, we just select two random alphabet.
 
 ```js
 customId({
-  name: "Md. Fazlul Karim" // Optional
+  name: "Jhon Doe" // Optional
 });
 ```
 
@@ -79,7 +79,7 @@ If no email is provided, we just select two random alphabet.
 
 ```js
 customId({
-  email: "fazlulkarimrocky@gmail.com" // Optional
+  email: "jhondoe@gmail.com" // Optional
 });
 ```
 
@@ -131,8 +131,8 @@ customId({
 
 ```js
 customId({
-  name: "Fazlul Karim",
-  email: "fazlulkarimrocky@gmail.com"
+  name: "Jhon Doe",
+  email: "jhondoe@gmail.com"
 });
 ```
 

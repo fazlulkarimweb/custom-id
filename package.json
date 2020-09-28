@@ -3,7 +3,7 @@
   "author": "Md Fazlul Karim <fazlulkarimrocky@gmail.com> (https://twitter.com/fazlulkarimweb)",
   "description": "A tiny, unique but customizable,🤠 human-friendly but secure, encrypted but beautiful,🐱‍🐉intuitive string ID generator for JavaScript 🎉🎉",
   "version": "1.2.0",
-  "main": "node.js",
+  "main": "index.js",
   "repository": "github:fazlulkarimweb/custom-id",
   "license": "MIT",
   "scripts": {
